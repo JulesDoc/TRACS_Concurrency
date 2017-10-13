@@ -55,7 +55,7 @@ void CarrierCollection::add_carriers_from_file(const std::string& filename, cons
 		std::getline(infile, line);
 		std::istringstream iss(line);
 		if (!(iss >> carrier_type >> q >> x_init >> y_init >> gen_time)) {
-			std::cout << "Error while reading file" << std::endl;
+			//std::cout << "Error while reading file" << std::endl;
 		}
 		//Extra in micrometers to shift y_init position
 		extra_y = depth - y_init;
@@ -75,7 +75,7 @@ void CarrierCollection::add_carriers_from_file(const std::string& filename, cons
 
 		std::istringstream iss(line);
 		if (!(iss >> carrier_type >> q >> x_init >> y_init >> gen_time)) { 
-			std::cout << "Error while reading file" << std::endl; 
+			//std::cout << "Error while reading file" << std::endl;
 			break;
 		} 
 

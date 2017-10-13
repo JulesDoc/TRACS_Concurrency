@@ -109,7 +109,21 @@ int main( int argc, char *argv[]) {
 	utilities::parse_config_file(fnm, carrierFile);
 
 	std::ifstream infile(carrierFile);
-	while (std::getline(infile, line))
+	std::ifstream in(carrierFile);
+	while (in){
+
+			for (int i = 0 ; i < num_threads ; i++){
+				std::ofstream outfile;
+				const char * c = carrierThread_fileNames[i].c_str();
+				outfile.open(c, std::ofstream::out | std::ofstream::app);
+				if (in) std::getline(in, line);
+				outfile << line << std::endl;
+				outfile.close();
+			}
+
+		}
+		in.close();
+	/*while (std::getline(infile, line))
 	{
 		++number_of_lines;
 	}
@@ -133,7 +147,7 @@ int main( int argc, char *argv[]) {
 
 		}
 	}
-	in.close();
+	in.close();*/
 
 
 
@@ -392,6 +406,10 @@ int main( int argc, char *argv[]) {
 	delete emo ;
 
 	//Clean
+	for (int i = 0 ; i < num_threads ; i++){
+				const char * c = carrierThread_fileNames[i].c_str();
+				remove(c);
+			}
 	for (uint i = 0; i < TRACSsim.size(); i++)	{
 		delete TRACSsim[i];
 	}

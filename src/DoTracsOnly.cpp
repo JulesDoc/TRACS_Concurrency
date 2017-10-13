@@ -74,8 +74,22 @@ int main( int argc, char *argv[]) {
 	}
 
 	utilities::parse_config_file(fnm, carrierFile);
+	std::ifstream in(carrierFile);
+	while (in){
 
-	std::ifstream infile(carrierFile);
+		for (int i = 0 ; i < num_threads ; i++){
+			std::ofstream outfile;
+			const char * c = carrierThread_fileNames[i].c_str();
+			outfile.open(c, std::ofstream::out | std::ofstream::app);
+			if (in) std::getline(in, line);
+			outfile << line << std::endl;
+			outfile.close();
+		}
+
+	}
+	in.close();
+
+	/*std::ifstream infile(carrierFile);
 	while (std::getline(infile, line))
 	{
 		++number_of_lines;
@@ -100,7 +114,7 @@ int main( int argc, char *argv[]) {
 
 		}
 	}
-	in.close();
+	in.close();*/
 
 
 
@@ -204,15 +218,13 @@ int main( int argc, char *argv[]) {
 		}
 
 	}
-	/*for (int i = 0 ; i < vItotals.size() ; i++){
-			for (int j = 0 ; j < vItotals[i].size() ; j++)
-				std::cout << "i " << i << "; j " << j << "    " <<  vItotals[i][j] << std::endl;
-		}*/
-
-
 
 	//write output to single file!
 	TRACSsim[0]->write_to_file(0);
+	for (int i = 0 ; i < num_threads ; i++){
+			const char * c = carrierThread_fileNames[i].c_str();
+			remove(c);
+		}
 
 	for (uint i = 0; i < TRACSsim.size(); i++)	{
 		delete TRACSsim[i];
