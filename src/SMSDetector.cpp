@@ -285,9 +285,9 @@ void SMSDetector::solve_w_f_grad()
 {
 
 	_L_g.u = _w_u;
-	std::unique_lock<std::mutex> guard(mtxD);
+	//std::unique_lock<std::mutex> guard(mtxD);
 	solve(_a_g == _L_g, _w_f_grad);
-	guard.unlock();
+	//guard.unlock();
 	// Change sign E = - grad(u)
 	_w_f_grad = _w_f_grad * (-1.0);
 }
@@ -298,9 +298,9 @@ void SMSDetector::solve_w_f_grad()
 void SMSDetector::solve_d_f_grad()
 {
 	_L_g.u = _d_u;
-	std::unique_lock<std::mutex> guard(mtxD);
+	//std::unique_lock<std::mutex> guard(mtxD);
 	solve(_a_g == _L_g, _d_f_grad);
-	guard.unlock();
+	//guard.unlock();
 	// Change sign E = - grad(u)
 	_d_f_grad = _d_f_grad * (-1.0);
 
