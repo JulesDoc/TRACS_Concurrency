@@ -547,8 +547,9 @@ void TRACSInterface::loop_on(int tid)
 				GetItRc();
 				//std::unique_lock<std::mutex> guard(mtx2);
 				i_temp = vItotals[index_total];
+				std::unique_lock<std::mutex> guard(mtx2);
 				vItotals[index_total] = i_shaped + i_temp;
-				///guard.unlock();
+				guard.unlock();
 
 				index_total++;
 				i_total = 0 ; i_elec = 0; i_hole = 0; i_shaped = 0; i_temp = 0;
@@ -593,8 +594,9 @@ void TRACSInterface::loop_on(int tid)
 				
 				//std::unique_lock<std::mutex> guard(mtx2);
 				i_temp = vItotals[index_total];
+				std::unique_lock<std::mutex> guard(mtx2);
 				vItotals[index_total] = i_shaped + i_temp;
-				//guard.unlock();
+				guard.unlock();
 
 				index_total++;
 				i_total = 0 ; i_elec = 0; i_hole = 0; i_shaped = 0; i_temp = 0;
