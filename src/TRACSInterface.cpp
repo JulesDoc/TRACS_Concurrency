@@ -533,7 +533,9 @@ void TRACSInterface::loop_on(int tid)
 
 			detector->solve_w_f_grad();
 			detector->solve_d_f_grad();
+			std::unique_lock<std::mutex> guard1(mtx2);
 			detector->get_mesh()->bounding_box_tree();
+			guard.unlock();
 
 
 			for (int index_zscan = 0; index_zscan < zVector.size(); index_zscan++){
@@ -577,7 +579,9 @@ void TRACSInterface::loop_on(int tid)
 
 			detector->solve_w_f_grad();
 			detector->solve_d_f_grad();
+			std::unique_lock<std::mutex> guard1(mtx2);
 			detector->get_mesh()->bounding_box_tree();
+			guard.unlock();
 
 
 			for (int index_yscan = 0; index_yscan < yVector.size(); index_yscan++){
