@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01boost_1_1numeric_1_1ublas_1_1permutatiofb3c62e9ed5a6501b396090494977a35 =
-[
-    [ "same_size", "db/d3f/structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01boost_1_1numeric_1_1ublas_1_1permutatiofb3c62e9ed5a6501b396090494977a35.html#a2131c9dbbc5585e3136f594ce441cb05", null ]
-];

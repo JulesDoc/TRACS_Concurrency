@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01mtl_1_1compressed2D_3_01Value_00_01Parameters_01_4_01_4 =
-[
-    [ "algebra_type", "d0/d4a/structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01mtl_1_1compressed2D_3_01Value_00_01Parameters_01_4_01_4.html#a87d4aeb61f44a7a6c94e9084beee0e87", null ]
-];

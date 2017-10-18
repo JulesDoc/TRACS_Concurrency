@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01boost_1_1numeric_1_1ublas_1_1matrix_3_07dac7afc611426271e34b0ee0770a6ad =
-[
-    [ "same_size", "d4/d53/structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01boost_1_1numeric_1_1ublas_1_1matrix_3_07dac7afc611426271e34b0ee0770a6ad.html#a9908b53147cee8c738c612b3df7ddc2e", null ]
-];

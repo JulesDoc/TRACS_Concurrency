@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher__sfinae_3_01T_00_01typename_01boost_1_1e5e0f293bb4c0931dd7c087d9b90a8b2a =
-[
-    [ "algebra_type", "d2/d02/structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher__sfinae_3_01T_00_01typename_01boost_1_1e5e0f293bb4c0931dd7c087d9b90a8b2a.html#adaf9cca7aec8b902cce192c74e19512e", null ]
-];

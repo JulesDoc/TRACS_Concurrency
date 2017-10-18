@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01thrust_1_1host__vector_3_01T_00_01A_01_4_01_4 =
-[
-    [ "algebra_type", "da/da3/structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01thrust_1_1host__vector_3_01T_00_01A_01_4_01_4.html#ab9597ea41c6dd9db4f983f5d9eea034e", null ]
-];

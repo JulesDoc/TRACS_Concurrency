@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1detail_1_1adams__moulton__call__algebra_3_013_00_01Algebra_00_01Operations_01_4 =
-[
-    [ "operator()", "d0/d0e/structboost_1_1numeric_1_1odeint_1_1detail_1_1adams__moulton__call__algebra_3_013_00_01Algebra_00_01Operations_01_4.html#a631dd6504e2f70bb38f5d1fe4986458c", null ]
-];

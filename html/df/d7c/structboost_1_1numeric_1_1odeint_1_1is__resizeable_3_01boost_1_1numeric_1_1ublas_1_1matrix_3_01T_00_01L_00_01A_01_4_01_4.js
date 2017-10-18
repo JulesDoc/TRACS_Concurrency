@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1is__resizeable_3_01boost_1_1numeric_1_1ublas_1_1matrix_3_01T_00_01L_00_01A_01_4_01_4 =
-[
-    [ "type", "df/d7c/structboost_1_1numeric_1_1odeint_1_1is__resizeable_3_01boost_1_1numeric_1_1ublas_1_1matrix_3_01T_00_01L_00_01A_01_4_01_4.html#ab8066c9c11d049d60a249a345f36a467", null ],
-    [ "value", "df/d7c/structboost_1_1numeric_1_1odeint_1_1is__resizeable_3_01boost_1_1numeric_1_1ublas_1_1matrix_3_01T_00_01L_00_01A_01_4_01_4.html#ab0aa5b40be8bb0fecef4f70c46d7557b", null ]
-];

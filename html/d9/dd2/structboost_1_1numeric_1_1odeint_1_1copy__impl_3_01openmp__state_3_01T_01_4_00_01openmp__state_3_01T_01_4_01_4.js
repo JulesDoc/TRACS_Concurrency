@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1copy__impl_3_01openmp__state_3_01T_01_4_00_01openmp__state_3_01T_01_4_01_4 =
-[
-    [ "copy", "d9/dd2/structboost_1_1numeric_1_1odeint_1_1copy__impl_3_01openmp__state_3_01T_01_4_00_01openmp__state_3_01T_01_4_01_4.html#a69b0c3a92d2774968ecd704c285af08f", null ]
-];

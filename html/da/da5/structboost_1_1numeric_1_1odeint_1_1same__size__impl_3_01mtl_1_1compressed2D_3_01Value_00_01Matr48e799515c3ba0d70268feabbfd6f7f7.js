@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01mtl_1_1compressed2D_3_01Value_00_01Matr48e799515c3ba0d70268feabbfd6f7f7 =
-[
-    [ "same_size", "da/da5/structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01mtl_1_1compressed2D_3_01Value_00_01Matr48e799515c3ba0d70268feabbfd6f7f7.html#aa5d625996fd7f7203aa298783446478b", null ]
-];

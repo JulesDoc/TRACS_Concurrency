@@ -1,4 +1,0 @@
-var classboost_1_1numeric_1_1odeint_1_1detail_1_1adams__moulton__coefficients_3_01Value_00_011_01_4 =
-[
-    [ "adams_moulton_coefficients", "d0/d94/classboost_1_1numeric_1_1odeint_1_1detail_1_1adams__moulton__coefficients_3_01Value_00_011_01_4.html#aedf7f00b01a0677986815ab3fec4a8fc", null ]
-];

@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1resize__impl_3_01vex_1_1vector_3_01T_01_4_00_01vex_1_1vector_3_01T_01_4_01_4 =
-[
-    [ "resize", "da/d68/structboost_1_1numeric_1_1odeint_1_1resize__impl_3_01vex_1_1vector_3_01T_01_4_00_01vex_1_1vector_3_01T_01_4_01_4.html#a6f7e1034d11e314bd827ef968a047386", null ]
-];

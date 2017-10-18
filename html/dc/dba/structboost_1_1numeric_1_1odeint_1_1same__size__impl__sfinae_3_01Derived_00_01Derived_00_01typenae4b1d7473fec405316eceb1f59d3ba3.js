@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl__sfinae_3_01Derived_00_01Derived_00_01typenae4b1d7473fec405316eceb1f59d3ba3 =
-[
-    [ "same_size", "dc/dba/structboost_1_1numeric_1_1odeint_1_1same__size__impl__sfinae_3_01Derived_00_01Derived_00_01typenae4b1d7473fec405316eceb1f59d3ba3.html#abaac3c80021be0f25dac1341e4913b7d", null ]
-];

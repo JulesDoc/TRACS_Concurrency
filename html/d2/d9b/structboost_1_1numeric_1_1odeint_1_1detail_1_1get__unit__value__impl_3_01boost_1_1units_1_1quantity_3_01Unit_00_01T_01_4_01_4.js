@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1detail_1_1get__unit__value__impl_3_01boost_1_1units_1_1quantity_3_01Unit_00_01T_01_4_01_4 =
-[
-    [ "result_type", "d2/d9b/structboost_1_1numeric_1_1odeint_1_1detail_1_1get__unit__value__impl_3_01boost_1_1units_1_1quantity_3_01Unit_00_01T_01_4_01_4.html#ae598ce149ca71e18e001190c6a586b3b", null ],
-    [ "value", "d2/d9b/structboost_1_1numeric_1_1odeint_1_1detail_1_1get__unit__value__impl_3_01boost_1_1units_1_1quantity_3_01Unit_00_01T_01_4_01_4.html#a58afd032b69233ec77fc9653db57adf4", null ]
-];

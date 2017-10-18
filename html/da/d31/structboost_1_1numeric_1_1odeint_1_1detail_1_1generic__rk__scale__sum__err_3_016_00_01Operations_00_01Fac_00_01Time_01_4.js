@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1detail_1_1generic__rk__scale__sum__err_3_016_00_01Operations_00_01Fac_00_01Time_01_4 =
-[
-    [ "result_type", "da/d31/structboost_1_1numeric_1_1odeint_1_1detail_1_1generic__rk__scale__sum__err_3_016_00_01Operations_00_01Fac_00_01Time_01_4.html#a232f9247853c08300e814161e6e2c50f", null ],
-    [ "generic_rk_scale_sum_err", "da/d31/structboost_1_1numeric_1_1odeint_1_1detail_1_1generic__rk__scale__sum__err_3_016_00_01Operations_00_01Fac_00_01Time_01_4.html#af9d3f0832e67a68a8c765ea078a710af", null ]
-];

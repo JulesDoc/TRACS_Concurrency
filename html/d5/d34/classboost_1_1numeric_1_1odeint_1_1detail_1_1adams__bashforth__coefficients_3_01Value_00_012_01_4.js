@@ -1,4 +1,0 @@
-var classboost_1_1numeric_1_1odeint_1_1detail_1_1adams__bashforth__coefficients_3_01Value_00_012_01_4 =
-[
-    [ "adams_bashforth_coefficients", "d5/d34/classboost_1_1numeric_1_1odeint_1_1detail_1_1adams__bashforth__coefficients_3_01Value_00_012_01_4.html#af468f5c256790c1fc9fb677b0532c101", null ]
-];

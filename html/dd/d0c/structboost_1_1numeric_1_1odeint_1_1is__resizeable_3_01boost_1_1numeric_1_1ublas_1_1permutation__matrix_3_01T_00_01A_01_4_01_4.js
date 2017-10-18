@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1is__resizeable_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4 =
-[
-    [ "type", "dd/d0c/structboost_1_1numeric_1_1odeint_1_1is__resizeable_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4.html#a73a8833b0a4d9edaf9b59342b2978514", null ],
-    [ "value", "dd/d0c/structboost_1_1numeric_1_1odeint_1_1is__resizeable_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4.html#a38b5ea2b0e9f9da95cd02ac087453b9a", null ]
-];

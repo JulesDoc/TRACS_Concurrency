@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1copy__impl_3_01mpi__state_3_01InnerState1_01_4_00_01mpi__state_3_01InnerState2_01_4_01_4 =
-[
-    [ "copy", "d7/d8f/structboost_1_1numeric_1_1odeint_1_1copy__impl_3_01mpi__state_3_01InnerState1_01_4_00_01mpi__state_3_01InnerState2_01_4_01_4.html#a5b45c048b67ba0e9a2d7ca5f7865214c", null ]
-];

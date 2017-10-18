@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01viennacl_1_1vector_3_01T_01_4_00_01viennacl_1_1vector_3_01T_01_4_01_4 =
-[
-    [ "same_size", "d4/d36/structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01viennacl_1_1vector_3_01T_01_4_00_01viennacl_1_1vector_3_01T_01_4_01_4.html#aec3909d9e51b42a7a529ba8735545e5e", null ]
-];

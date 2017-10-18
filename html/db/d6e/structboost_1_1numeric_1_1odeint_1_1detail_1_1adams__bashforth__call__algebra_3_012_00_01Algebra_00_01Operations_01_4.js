@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1detail_1_1adams__bashforth__call__algebra_3_012_00_01Algebra_00_01Operations_01_4 =
-[
-    [ "operator()", "db/d6e/structboost_1_1numeric_1_1odeint_1_1detail_1_1adams__bashforth__call__algebra_3_012_00_01Algebra_00_01Operations_01_4.html#aff3c3c5cab6aa4b980194c7dfb7705d3", null ]
-];

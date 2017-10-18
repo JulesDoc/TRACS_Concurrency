@@ -1,6 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1get__dense__output_3_01runge__kutta__dopri5_3_01State_00_01V70f46fda72271c5a12d5061f9409faf8 =
-[
-    [ "controller_type", "de/dc6/structboost_1_1numeric_1_1odeint_1_1get__dense__output_3_01runge__kutta__dopri5_3_01State_00_01V70f46fda72271c5a12d5061f9409faf8.html#af87a5d1bee9d70ca303e7a65921632c6", null ],
-    [ "stepper_type", "de/dc6/structboost_1_1numeric_1_1odeint_1_1get__dense__output_3_01runge__kutta__dopri5_3_01State_00_01V70f46fda72271c5a12d5061f9409faf8.html#ad0a7b1b7eba98f5415712f71f429d1b0", null ],
-    [ "type", "de/dc6/structboost_1_1numeric_1_1odeint_1_1get__dense__output_3_01runge__kutta__dopri5_3_01State_00_01V70f46fda72271c5a12d5061f9409faf8.html#ac0892b24e8694a86b9124cdc5af325c4", null ]
-];

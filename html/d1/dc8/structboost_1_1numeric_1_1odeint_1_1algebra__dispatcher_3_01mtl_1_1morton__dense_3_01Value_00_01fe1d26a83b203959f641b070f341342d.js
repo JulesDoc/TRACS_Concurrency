@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01mtl_1_1morton__dense_3_01Value_00_01fe1d26a83b203959f641b070f341342d =
-[
-    [ "algebra_type", "d1/dc8/structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01mtl_1_1morton__dense_3_01Value_00_01fe1d26a83b203959f641b070f341342d.html#a4a22730fbff7250cf2a5395e44173edf", null ]
-];
