@@ -1,6 +1,8 @@
 # FitTracs
 TRACS working as its main purpose.
 
+After following TRACS_installation.pdf
+
 2 Minutes - Pretty easy installation
 
 On your favourite directory:
