@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1copy__impl_3_01vex_1_1multivector_3_01T1_00_01N_01_4_00_01veee3911b342431100b8589f5c7e5bd479 =
-[
-    [ "copy", "d9/d7f/structboost_1_1numeric_1_1odeint_1_1copy__impl_3_01vex_1_1multivector_3_01T1_00_01N_01_4_00_01veee3911b342431100b8589f5c7e5bd479.html#adf2da672409e82d8853d057f0a033293", null ]
-];

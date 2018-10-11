@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__fehlberg78_3_01State_00_014dc5c98c96bb486f961e535dd5017608 =
-[
-    [ "stepper_type", "d7/dd8/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__fehlberg78_3_01State_00_014dc5c98c96bb486f961e535dd5017608.html#a44c41303e214d9cc8ec4609f9cdf619b", null ],
-    [ "type", "d7/dd8/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__fehlberg78_3_01State_00_014dc5c98c96bb486f961e535dd5017608.html#adef8e4d8f367baff9f9e7c4a21dee7c9", null ]
-];

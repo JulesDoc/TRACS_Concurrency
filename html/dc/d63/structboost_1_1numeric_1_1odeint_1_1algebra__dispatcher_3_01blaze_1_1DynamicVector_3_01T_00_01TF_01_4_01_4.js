@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01blaze_1_1DynamicVector_3_01T_00_01TF_01_4_01_4 =
-[
-    [ "algebra_type", "dc/d63/structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01blaze_1_1DynamicVector_3_01T_00_01TF_01_4_01_4.html#af9273bfa1ea8c05c99e0c3250487c02a", null ]
-];

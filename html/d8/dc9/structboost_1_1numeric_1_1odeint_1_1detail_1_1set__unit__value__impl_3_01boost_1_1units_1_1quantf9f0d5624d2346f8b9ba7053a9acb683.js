@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1detail_1_1set__unit__value__impl_3_01boost_1_1units_1_1quantf9f0d5624d2346f8b9ba7053a9acb683 =
-[
-    [ "set_value", "d8/dc9/structboost_1_1numeric_1_1odeint_1_1detail_1_1set__unit__value__impl_3_01boost_1_1units_1_1quantf9f0d5624d2346f8b9ba7053a9acb683.html#a9f553cf1260f9c40c985b38e544a2ccd", null ]
-];

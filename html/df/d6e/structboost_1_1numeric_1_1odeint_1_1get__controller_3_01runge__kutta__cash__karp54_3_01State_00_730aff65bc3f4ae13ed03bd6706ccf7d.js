@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__cash__karp54_3_01State_00_730aff65bc3f4ae13ed03bd6706ccf7d =
-[
-    [ "stepper_type", "df/d6e/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__cash__karp54_3_01State_00_730aff65bc3f4ae13ed03bd6706ccf7d.html#a74b9bb9acb74c04a48142a8686c3586f", null ],
-    [ "type", "df/d6e/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__cash__karp54_3_01State_00_730aff65bc3f4ae13ed03bd6706ccf7d.html#abbbfd72afafb270b065b25fcf10e6e21", null ]
-];

@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1split__impl_3_01Source_00_01mpi__state_3_01InnerState_01_4_01537fc4f192e4879fc99c563ee012c48 =
-[
-    [ "iterator", "d4/dd0/structboost_1_1numeric_1_1odeint_1_1split__impl_3_01Source_00_01mpi__state_3_01InnerState_01_4_01537fc4f192e4879fc99c563ee012c48.html#ac5ec9c9ad122ead2344c941e9325338d", null ],
-    [ "split", "d4/dd0/structboost_1_1numeric_1_1odeint_1_1split__impl_3_01Source_00_01mpi__state_3_01InnerState_01_4_01537fc4f192e4879fc99c563ee012c48.html#a9968f9e9796dc720851500ef23cd7aef", null ]
-];

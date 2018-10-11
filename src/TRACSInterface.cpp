@@ -529,11 +529,10 @@ void TRACSInterface::loop_on(int tid)
 			
 			std::unique_lock<std::mutex> guard(mtx2);
 			detector->solve_d_u();
-			guard.unlock();
-
 			detector->solve_w_f_grad();
 			detector->solve_d_f_grad();
 			detector->get_mesh()->bounding_box_tree();
+			guard.unlock();
 
 
 			for (int index_zscan = 0; index_zscan < zVector.size(); index_zscan++){
@@ -543,8 +542,8 @@ void TRACSInterface::loop_on(int tid)
 				i_total = i_elec + i_hole;
 
 				GetItRc();
-				std::unique_lock<std::mutex> guard(mtx2);
 				i_temp = vItotals[index_total];
+				std::unique_lock<std::mutex> guard(mtx2);
 				vItotals[index_total] = i_shaped + i_temp;
 				guard.unlock();
 
@@ -573,11 +572,10 @@ void TRACSInterface::loop_on(int tid)
 			
 			std::unique_lock<std::mutex> guard(mtx2);
 			detector->solve_d_u();
-			guard.unlock();
-
 			detector->solve_w_f_grad();
 			detector->solve_d_f_grad();
 			detector->get_mesh()->bounding_box_tree();
+			guard.unlock();
 
 
 			for (int index_yscan = 0; index_yscan < yVector.size(); index_yscan++){
@@ -587,8 +585,8 @@ void TRACSInterface::loop_on(int tid)
 
 				GetItRc();
 				
-				std::unique_lock<std::mutex> guard(mtx2);
 				i_temp = vItotals[index_total];
+				std::unique_lock<std::mutex> guard(mtx2);
 				vItotals[index_total] = i_shaped + i_temp;
 				guard.unlock();
 

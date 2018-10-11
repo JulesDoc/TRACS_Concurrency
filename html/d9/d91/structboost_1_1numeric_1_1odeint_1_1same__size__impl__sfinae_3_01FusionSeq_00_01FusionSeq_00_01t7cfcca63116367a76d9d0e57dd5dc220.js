@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl__sfinae_3_01FusionSeq_00_01FusionSeq_00_01t7cfcca63116367a76d9d0e57dd5dc220 =
-[
-    [ "same_size", "d9/d91/structboost_1_1numeric_1_1odeint_1_1same__size__impl__sfinae_3_01FusionSeq_00_01FusionSeq_00_01t7cfcca63116367a76d9d0e57dd5dc220.html#a1b9c8fd5c7e842ad14a98737f13d1e1e", null ]
-];

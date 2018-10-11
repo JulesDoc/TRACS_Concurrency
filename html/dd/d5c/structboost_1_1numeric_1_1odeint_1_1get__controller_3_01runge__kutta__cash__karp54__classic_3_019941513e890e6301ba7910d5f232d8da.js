@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__cash__karp54__classic_3_019941513e890e6301ba7910d5f232d8da =
-[
-    [ "stepper_type", "dd/d5c/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__cash__karp54__classic_3_019941513e890e6301ba7910d5f232d8da.html#a4f8124754129a4f02dc0b4e6f0bd4842", null ],
-    [ "type", "dd/d5c/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__cash__karp54__classic_3_019941513e890e6301ba7910d5f232d8da.html#ad113f35a2bb14ba0ededda8b99814090", null ]
-];

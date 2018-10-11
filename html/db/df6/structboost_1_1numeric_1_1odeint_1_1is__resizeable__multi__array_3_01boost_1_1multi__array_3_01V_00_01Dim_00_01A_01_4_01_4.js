@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1is__resizeable__multi__array_3_01boost_1_1multi__array_3_01V_00_01Dim_00_01A_01_4_01_4 =
-[
-    [ "type", "db/df6/structboost_1_1numeric_1_1odeint_1_1is__resizeable__multi__array_3_01boost_1_1multi__array_3_01V_00_01Dim_00_01A_01_4_01_4.html#ace02cc7a0f3527ea8b1770b090379bd2", null ],
-    [ "value", "db/df6/structboost_1_1numeric_1_1odeint_1_1is__resizeable__multi__array_3_01boost_1_1multi__array_3_01V_00_01Dim_00_01A_01_4_01_4.html#affce7dde1180d13f1fe9b55878e8faba", null ]
-];

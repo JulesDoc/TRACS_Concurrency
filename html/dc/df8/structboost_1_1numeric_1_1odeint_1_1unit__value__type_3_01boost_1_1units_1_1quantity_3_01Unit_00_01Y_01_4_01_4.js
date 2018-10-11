@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1unit__value__type_3_01boost_1_1units_1_1quantity_3_01Unit_00_01Y_01_4_01_4 =
-[
-    [ "type", "dc/df8/structboost_1_1numeric_1_1odeint_1_1unit__value__type_3_01boost_1_1units_1_1quantity_3_01Unit_00_01Y_01_4_01_4.html#a2ebf94f9b3750b753d1469989450cef1", null ]
-];

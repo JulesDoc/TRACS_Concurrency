@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1get__controller_3_01rosenbrock4_3_01Value_00_01Coefficients_00_01Resize_01_4_01_4 =
-[
-    [ "stepper_type", "dc/dca/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01rosenbrock4_3_01Value_00_01Coefficients_00_01Resize_01_4_01_4.html#abd541779a93c8297d0383ea74d71666f", null ],
-    [ "type", "dc/dca/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01rosenbrock4_3_01Value_00_01Coefficients_00_01Resize_01_4_01_4.html#a0e3c00f93d0ca80b326c0272e8f9fe42", null ]
-];

@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01blaze_1_1StaticVector_3_01T_00_01N_00_01TF_01_4_01_4 =
-[
-    [ "algebra_type", "dc/d9f/structboost_1_1numeric_1_1odeint_1_1algebra__dispatcher_3_01blaze_1_1StaticVector_3_01T_00_01N_00_01TF_01_4_01_4.html#a98e2c7bdfa053f9e7af93d50e6f819f1", null ]
-];

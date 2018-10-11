@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1vector__space__norm__inf_3_01mtl_1_1morton__dense_3_01Value_4a2c4c695efa89514856140d0758a77c =
-[
-    [ "result_type", "d2/d2d/structboost_1_1numeric_1_1odeint_1_1vector__space__norm__inf_3_01mtl_1_1morton__dense_3_01Value_4a2c4c695efa89514856140d0758a77c.html#aed278c94e1d9cd901e0a610b0aa3e667", null ],
-    [ "operator()", "d2/d2d/structboost_1_1numeric_1_1odeint_1_1vector__space__norm__inf_3_01mtl_1_1morton__dense_3_01Value_4a2c4c695efa89514856140d0758a77c.html#a7a2dc7b1363d7db0e07ef144baae7c4d", null ]
-];

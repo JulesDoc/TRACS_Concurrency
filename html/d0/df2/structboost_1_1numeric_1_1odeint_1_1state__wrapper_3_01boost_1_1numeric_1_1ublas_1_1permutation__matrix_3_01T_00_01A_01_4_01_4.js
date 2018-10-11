@@ -1,7 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1state__wrapper_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4 =
-[
-    [ "state_type", "d0/df2/structboost_1_1numeric_1_1odeint_1_1state__wrapper_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4.html#acfe4f0ed2877bdda1d2939299814cff7", null ],
-    [ "state_wrapper_type", "d0/df2/structboost_1_1numeric_1_1odeint_1_1state__wrapper_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4.html#a48fce3096c44af7eb1848a485b03919d", null ],
-    [ "state_wrapper", "d0/df2/structboost_1_1numeric_1_1odeint_1_1state__wrapper_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4.html#a8ae7aecef8d9e911c3c0b1d38f363c16", null ],
-    [ "m_v", "d0/df2/structboost_1_1numeric_1_1odeint_1_1state__wrapper_3_01boost_1_1numeric_1_1ublas_1_1permutation__matrix_3_01T_00_01A_01_4_01_4.html#a02bff63e2532ca84403ddcfd8f8e9142", null ]
-];

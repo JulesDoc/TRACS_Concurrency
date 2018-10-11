@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01openmp__state_3_01T_01_4_00_01openmp__state_3_01T_01_4_01_4 =
-[
-    [ "same_size", "de/d28/structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01openmp__state_3_01T_01_4_00_01openmp__state_3_01T_01_4_01_4.html#ab4ec310e328898a6fae6641949b1b0c7", null ]
-];

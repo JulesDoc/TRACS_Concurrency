@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__dopri5_3_01State_00_01Valua249a48dae656e7ef9db8c3f8d1fd8a0 =
-[
-    [ "stepper_type", "d5/d2e/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__dopri5_3_01State_00_01Valua249a48dae656e7ef9db8c3f8d1fd8a0.html#a5cdcff6234515ee2e4172f95753173da", null ],
-    [ "type", "d5/d2e/structboost_1_1numeric_1_1odeint_1_1get__controller_3_01runge__kutta__dopri5_3_01State_00_01Valua249a48dae656e7ef9db8c3f8d1fd8a0.html#a52e98c7cee5c6a040016e455a6b1b8f0", null ]
-];

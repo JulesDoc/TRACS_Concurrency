@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01vex_1_1multivector_3_01T_00_01N_01_4_00b03d396c26a8744debb2eb5749e3a977 =
-[
-    [ "same_size", "de/dc6/structboost_1_1numeric_1_1odeint_1_1same__size__impl_3_01vex_1_1multivector_3_01T_00_01N_01_4_00b03d396c26a8744debb2eb5749e3a977.html#a82f4b5de5320bb0edc5abef50e758fcc", null ]
-];

@@ -1,4 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1operations__dispatcher_3_01boost_1_1compute_1_1vector_3_01T_00_01A_01_4_01_4 =
-[
-    [ "operations_type", "d8/de5/structboost_1_1numeric_1_1odeint_1_1operations__dispatcher_3_01boost_1_1compute_1_1vector_3_01T_00_01A_01_4_01_4.html#a06bd55f68a829691963910d8c29cdb7f", null ]
-];

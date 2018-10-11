@@ -1,5 +1,0 @@
-var structboost_1_1numeric_1_1odeint_1_1vector__space__norm__inf_3_01Eigen_1_1Matrix_3_01B_00_01S1_036a98a58271a29a5a9ef776d6bc852af =
-[
-    [ "result_type", "d0/d4a/structboost_1_1numeric_1_1odeint_1_1vector__space__norm__inf_3_01Eigen_1_1Matrix_3_01B_00_01S1_036a98a58271a29a5a9ef776d6bc852af.html#a5e55f243ed1032968b010b448772c99b", null ],
-    [ "operator()", "d0/d4a/structboost_1_1numeric_1_1odeint_1_1vector__space__norm__inf_3_01Eigen_1_1Matrix_3_01B_00_01S1_036a98a58271a29a5a9ef776d6bc852af.html#a4e38f64dab58939036e8f01f240b5bf2", null ]
-];
