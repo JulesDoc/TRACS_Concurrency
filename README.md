@@ -1,7 +1,7 @@
 # FitTracs
 TRACS working as its main purpose.
 
-***After following TRACS_installation.pdf
+***After following TRACS_installation.pdf, that can be found in this repository:
 
 5 Minutes - Easy installation
 
