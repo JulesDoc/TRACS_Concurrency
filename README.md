@@ -1,9 +1,9 @@
 # FitTracs
 TRACS working as its main purpose.
 
-After following TRACS_installation.pdf
+***After following TRACS_installation.pdf
 
-2 Minutes - Pretty easy installation
+5 Minutes - Easy installation
 
 On your favourite directory:
 1) git clone https://github.com/JulesDoc/FitTracs
