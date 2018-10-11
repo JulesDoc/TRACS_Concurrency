@@ -89,32 +89,6 @@ int main( int argc, char *argv[]) {
 	}
 	in.close();
 
-	/*std::ifstream infile(carrierFile);
-	while (std::getline(infile, line))
-	{
-		++number_of_lines;
-	}
-	int resto_carriers = number_of_lines % num_threads;
-	int carriers_per_thr = number_of_lines / num_threads;
-	infile.close();
-
-	counted_numLines = counted_numLines - resto_carriers;
-	std::ifstream in(carrierFile);
-	for (int i = 0; i < num_threads; ++i) {
-		std::ofstream out(carrierThread_fileNames[i]);
-		while (in){
-			counted_numLines++;
-			std::getline(in, line);
-			out << line << std::endl;
-			if (counted_numLines == carriers_per_thr){
-				out.close();
-				counted_numLines = 0;
-				break;
-			}
-
-		}
-	}
-	in.close();*/
 
 
 
