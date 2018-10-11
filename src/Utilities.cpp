@@ -95,7 +95,8 @@ void utilities::write_to_file_row(std::string filename, TH1D *hconv, double temp
 	}
 	else // Error output
 	{
-		std::cout << "File could not be read/created"<<std::endl;
+		//std::cout << "File could not be read/created"<<std::endl;
+		std::cout << "Error File" << std::endl;
 	}
 }
 
